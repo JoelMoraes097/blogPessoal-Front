@@ -7,6 +7,7 @@
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "noImplicitReturns": true,
+    "strictPropertyInitialization": false,// não solicita inicialização dos atributos.
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
     "declaration": false,
