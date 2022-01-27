@@ -1,6 +1,5 @@
-import { tema } from "./tema";
-import { Usuario } from "./Usuario";
-
+import { Tema } from "./Tema"
+import { Usuario } from "./Usuario"
 
 export class Postagem{
 	
@@ -12,7 +11,7 @@ export class Postagem{
 
     public data: Date 
 
-    public tema: tema
+    public tema: Tema
 
     public usuario: Usuario
 
